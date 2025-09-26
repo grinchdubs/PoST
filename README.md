@@ -19,3 +19,11 @@ Save and recall your favorite looks instantly. Build a library of signature styl
 Control pages are organized to match the actual signal flow, making it easy to understand how each effect builds upon the previous one. Navigate your processing chain logically from input to final output.
 
 Perfect for live performances, installations, and real-time content creation where you need broadcast-quality finishing without breaking your creative flow.
+
+Thanks to Vasily Betin, Dylan Roscover, and Simone Franco (Unviel) for the work as I used some of thier componets in the creation of this tool.
+
+https://github.com/Ajasra
+https://github.com/Dylanroscover
+https://olib.amb-service.net/user/citrullo
+
+
