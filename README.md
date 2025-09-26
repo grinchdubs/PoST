@@ -1,5 +1,5 @@
 # PoST
-TouchDesigner Post-Processing Component
+A TouchDesigner Post-Processing Component
 
 A comprehensive end-of-chain post-processing solution that eliminates the need for external video editing software. This all-in-one component provides professional-grade color grading and finishing tools directly within your TouchDesigner workflow.
 
