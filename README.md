@@ -23,6 +23,8 @@ Perfect for live performances, installations, and real-time content creation whe
 **NOTE**
 Place the LUTs folder into your project folder and the tox will automatically find them. (As of Version 0.8)
 
+![](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/TD_Tools/Screenshot%202025-10-27%20133548.png)
+
 Thanks to Vasily Betin, Dylan Roscover, and Simone Franco (Unviel) for the work as I used some of thier componets in the creation of this tool.
 
 https://github.com/Ajasra
