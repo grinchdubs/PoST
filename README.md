@@ -20,6 +20,9 @@ Control pages are organized to match the actual signal flow, making it easy to u
 
 Perfect for live performances, installations, and real-time content creation where you need broadcast-quality finishing without breaking your creative flow.
 
+**NOTE**
+Place the LUTs folder into your project folder and the tox will automatically find them. (As of Version 0.8)
+
 Thanks to Vasily Betin, Dylan Roscover, and Simone Franco (Unviel) for the work as I used some of thier componets in the creation of this tool.
 
 https://github.com/Ajasra
