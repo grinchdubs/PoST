@@ -1,6 +1,8 @@
 # PoST
 A TouchDesigner Post-Processing Component
 
+![](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/TD_Tools/Screenshot%202025-10-27%20133548.png)
+
 A comprehensive end-of-chain post-processing solution that eliminates the need for external video editing software. This all-in-one component provides professional-grade color grading and finishing tools directly within your TouchDesigner workflow.
 
 ## Features
@@ -22,8 +24,6 @@ Perfect for live performances, installations, and real-time content creation whe
 
 **NOTE**
 Place the LUTs folder into your project folder and the tox will automatically find them. (As of Version 0.8)
-
-![](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/TD_Tools/Screenshot%202025-10-27%20133548.png)
 
 Thanks to Vasily Betin, Dylan Roscover, and Simone Franco (Unviel) for the work as I used some of thier componets in the creation of this tool.
 
